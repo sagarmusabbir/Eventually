@@ -7,7 +7,7 @@
 
 	<title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
 
-	<link rel="stylesheet" href="/css/style.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="/css/main.css" type="text/css" media="all" />
 
 	{{ with .OutputFormats.Get "rss" -}}
 		{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
@@ -15,8 +15,21 @@
 
 </head>
 
-<body>
+<body class="is-preload">
 
-{{ partial "nav.html" . }}
+<!--  {{ partial "nav.html" . }}  -->
+
+		<!-- Header -->
+		<header id="header">
+			<h1>Eventually</h1>
+			<p>A simple hugo theme for telling the world when you'll launch<br />
+			your next big thing. Brought to you by <a href="https://musabbirsagar.com">SAGAR</a></p>
+		</header>
+
+	<!-- Signup Form -->
+		<form id="signup-form" method="post" action="#">
+			<input type="email" name="email" id="email" placeholder="Email Address" />
+			<input type="submit" value="Sign Up" />
+		</form>
 
 <main class="content">

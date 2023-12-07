@@ -1,0 +1,16 @@
+name = "Eventually"
+license = "Creative Commons Attribution 3.0 Unported"
+licenselink = "https://github.com/sagarmusabbir/Eventually/blob/master/LICENSE.md"
+description = "Eventually is a one page, responsive pre-launching template. It is a port of [HTML5 UP's Eventually Template](https://html5up.net/eventually)."
+tags = ["responsive", "personal"]
+features = ["responsive"]
+min_version = 0.18
+
+[author]
+  name = "Musabbir Sagar"
+  homepage = "https://www.musabbirsagar.com/"
+
+[original]
+  name = "@ajlkn"
+  homepage = "https://html5up.net/eventually"
+  repo = ""
