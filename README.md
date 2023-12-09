@@ -32,7 +32,7 @@ Run the following commands inside the folder of your Hugo site:
 
 Copy the config.toml file from the exampleSite folder into your root folder of your Hugo site. Change the fields as needed. Be sure to change the baseurl. Add or delete social media as needed. You may need to look up the [font-awesome](http://fontawesome.io/) icon names. In the configuration file add your personal information. 
 
-After installation, you simply have to set up the config.toml file to get started I have added the following , if desired, change the background picture.
+After installation, you simply have to set up the config.toml file to get started.
 ```toml
 [params]
 pagetitle = 'PRELAUNCH'
