@@ -1,15 +1,14 @@
-baseURL = "https://example.com"
-title = "Hugo template"
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Eventually'
+theme = 'eventually'
 
-[menu]
-  [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/posts"
-    weight = 10
 
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about"
-    weight = 20
+[params]
+pagetitle = 'PRELAUNCH'
+description1 = 'A simple hugo theme for telling the world when you will launch your next big thing.'
+description2 = 'This is an HTML5UP.NET template ported by MUSABBIRSAGAR.COM'
+twitter = 'https://twitter.com/#'
+instagram = 'https://instagram.com/#'
+github = 'https://twitter.com/'
+email = 'https://twitter.com/'
