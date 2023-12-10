@@ -1,6 +1,6 @@
 # Eventually
 
-Introducing 'Eventually,' a sleek and responsive one-page pre-launching site template meticulously crafted for Hugo. Derived from HTML5 UP's acclaimed design, this template offers easy customization, allowing you to tailor your landing page with personalized parameters. Dive into our quick guide for seamless installation, configuration, and effortless slider image updates. Eventually is a one page, responsive pre-launching site template. It is a port of [HTML5 UP's Eventually Template](https://html5up.net/eventually). I have tried to port it as neat as I can. Please help me with your valuable feedbacks.
+Introducing 'Eventually,' a sleek and responsive one-page pre-launching site template meticulously crafted for Hugo. Derived from HTML5 UP's acclaimed design [Eventually](https://html5up.net/eventually), this template offers easy customization, allowing you to tailor your landing page with personalized parameters. Dive into our quick guide for seamless installation, configuration, and effortless slider image updates. Eventually is a one page, responsive pre-launching site template. It is a port of [HTML5 UP's Eventually Template](https://html5up.net/eventually). I have tried to port it as neat as I can. Please help me with your valuable feedbacks.
 
 
 ## Live Demo
