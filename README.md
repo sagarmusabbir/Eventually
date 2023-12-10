@@ -55,6 +55,6 @@ This theme is released under the CC BY 3.0 license. For more information, read t
 ## Credit
 
 1. Template: [Eventually](https://html5up.net/eventually) | [@ajlkn](html5up.net/@ajlkn)
-2. Hugo Porting:  [Musabbir Sagar](https://www.musabbirsagar.com/about) | [Whatsapp](https://wa.me/881765692886)
+2. Hugo Porting:  [Theme](https://github.com/sagarmusabbir/Eventually) | [Musabbir Sagar](https://www.musabbirsagar.com/about) | [Whatsapp](https://wa.me/881765692886)
 3. Image: unsplash.com | [@grakozy](https://unsplash.com/@grakozy) | [@conti_photos](https://unsplash.com/@conti_photos) | [@mikejerskine](https://unsplash.com/@mikejerskine)
 4. Icon: Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com
