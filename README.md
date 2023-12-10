@@ -7,6 +7,8 @@ Eventually is a one page, responsive pre-launching site template. It is a port o
 
 Check the theme in action [Here](www.thirdbracket.co.uk)
 
+![hugo-eventually](https://raw.githubusercontent.com/sagarmusabbir/Eventually/master/images/screenshot.png "Screenshot")
+
 
 ## Features
 
