@@ -35,7 +35,7 @@ Copy the config.toml file from the exampleSite folder into your root folder of y
 After installation, you simply have to set up the config.toml file to get started.
 ```toml
 [params]
-pagetitle = 'PRELAUNCH'
+pagetitle = 'EVENTUALLY'
 description1 = 'A simple hugo theme for telling the world when you will launch your next big thing.'
 description2 = 'This is an HTML5UP.NET template ported by MUSABBIRSAGAR.COM'
 twitter = 'https://twitter.com/#'
@@ -51,3 +51,10 @@ Should you choose to change the background slides, create a `/static/css/images`
 ## License
 
 This theme is released under the CC BY 3.0 license. For more information, read the [License](https://github.com/sagarmusabbir/Eventually/blob/master/LICENSE.md).
+
+## Credit
+
+1. Template: html5up.net | @ajlkn
+2. Hugo Porting:  [Musabbir Sagar](https://www.musabbirsagar.com/about) | [Whatsapp](https://wa.me/881765692886)
+3. Image: unsplash.com | [@grakozy](https://unsplash.com/@grakozy) | [@conti_photos](https://unsplash.com/@conti_photos) | [@mikejerskine](https://unsplash.com/@mikejerskine)
+4. Icon: Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com
