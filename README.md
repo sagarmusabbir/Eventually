@@ -5,7 +5,7 @@ Eventually is a one page, responsive pre-launching site template. It is a port o
 
 ## Live Demo
 
-Check the theme in action [Here](#)
+Check the theme in action [Here](www.thirdbracket.co.uk)
 
 
 ## Features
