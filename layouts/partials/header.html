@@ -28,8 +28,9 @@
 	</header>
 
 	<!-- Signup Form -->
-	<form id="signup-form" method="post" netlify>
+	<form id="signup-form" method="post" netlify data-netlify="true" data-netlify-recaptcha="true">
 		<input type="email" name="email" id="email" placeholder="Email Address" />
+		<div data-netlify-recaptcha="true"></div>
 		<input type="submit" value="Sign Up" />
 	</form>
 
