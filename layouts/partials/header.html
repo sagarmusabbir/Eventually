@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 
 	<meta charset="UTF-8" />
@@ -10,25 +11,26 @@
 	<link rel="stylesheet" href="/css/main.css" type="text/css" media="all" />
 
 	{{ with .OutputFormats.Get "rss" -}}
-		{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+	{{ printf `
+	<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
 	{{ end -}}
 
 </head>
 
 <body class="is-preload">
 
-<!--  {{ partial "nav.html" . }}  -->
+	<!--  {{ partial "nav.html" . }}  -->
 
-		<!-- Header -->
-		<header id="header">
-			<h1>{{ .Site.Params.Pagetitle }}</h1>
-			<p>{{ .Site.Params.Description1 }} <br> {{ .Site.Params.Description2 }}</p> 
-		</header>
+	<!-- Header -->
+	<header id="header">
+		<h1>{{ .Site.Params.Pagetitle }}</h1>
+		<p>{{ .Site.Params.Description1 }} <br> {{ .Site.Params.Description2 }}</p>
+	</header>
 
 	<!-- Signup Form -->
-		<form id="signup-form" method="post" action="#">
-			<input type="email" name="email" id="email" placeholder="Email Address" />
-			<input type="submit" value="Sign Up" />
-		</form>
+	<form id="signup-form" method="post" data-netlify="true">
+		<input type="email" name="email" id="email" placeholder="Email Address" />
+		<input type="submit" value="Sign Up" />
+	</form>
 
-<main class="content">
+	<main class="content">
