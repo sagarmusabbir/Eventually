@@ -5,7 +5,7 @@ Introducing 'Eventually,' a sleek and responsive one-page pre-launching site tem
 
 ## Live Demo
 
-Explore the live demo at [Here](www.thirdbracket.co.uk) to witness the template in action. Unveil your next big thing with style, as 'Eventually' combines simplicity and elegance. 
+Explore the live demo at [Here](https://thirdbracket.co.uk) to witness the template in action. Unveil your next big thing with style, as 'Eventually' combines simplicity and elegance. 
 ![hugo-eventually](https://raw.githubusercontent.com/sagarmusabbir/Eventually/master/images/screenshot.png "Screenshot")
 
 
